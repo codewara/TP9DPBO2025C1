@@ -45,4 +45,4 @@ Program
 - Setiap presenter bertanggung jawab penuh untuk pengambilan dan pengelolaan data dari model, dan menyediakannya untuk digunakan oleh view tanpa melibatkan logika database dalam kelas view.
 
 # Dokumentasi
-
+https://github.com/user-attachments/assets/aa43fbd0-6861-48d2-ab17-5d18642c4c5c
